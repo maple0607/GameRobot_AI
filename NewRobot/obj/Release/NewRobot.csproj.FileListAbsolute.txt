@@ -1,0 +1,27 @@
+c:\users\zhoushuo\documents\visual studio 2012\Projects\NewRobot\NewRobot\bin\Release\NewRobot.exe.config
+c:\users\zhoushuo\documents\visual studio 2012\Projects\NewRobot\NewRobot\bin\Release\NewRobot.exe
+c:\users\zhoushuo\documents\visual studio 2012\Projects\NewRobot\NewRobot\bin\Release\NewRobot.pdb
+c:\users\zhoushuo\documents\visual studio 2012\Projects\NewRobot\NewRobot\obj\Release\NewRobot.RobotWindow.resources
+c:\users\zhoushuo\documents\visual studio 2012\Projects\NewRobot\NewRobot\obj\Release\NewRobot.Properties.Resources.resources
+c:\users\zhoushuo\documents\visual studio 2012\Projects\NewRobot\NewRobot\obj\Release\NewRobot.csproj.GenerateResource.Cache
+c:\users\zhoushuo\documents\visual studio 2012\Projects\NewRobot\NewRobot\obj\Release\NewRobot.exe
+c:\users\zhoushuo\documents\visual studio 2012\Projects\NewRobot\NewRobot\obj\Release\NewRobot.pdb
+E:\work\Client\Robot\NewRobot\NewRobot\bin\Release\NewRobot.exe.config
+E:\work\Client\Robot\NewRobot\NewRobot\obj\Release\NewRobot.exe
+E:\work\Client\Robot\NewRobot\NewRobot\obj\Release\NewRobot.pdb
+E:\work\Client\Robot\NewRobot\NewRobot\bin\Release\NewRobot.exe
+E:\work\Client\Robot\NewRobot\NewRobot\bin\Release\NewRobot.pdb
+E:\work\Client\Robot\NewRobot\NewRobot\bin\Release\NetLib.dll
+E:\work\Client\Robot\NewRobot\NewRobot\obj\Release\NewRobot.RobotWindow.resources
+E:\work\Client\Robot\NewRobot\NewRobot\obj\Release\NewRobot.Properties.Resources.resources
+E:\work\Client\Robot\NewRobot\NewRobot\obj\Release\NewRobot.csproj.GenerateResource.Cache
+D:\work\Client\Robot\NewRobot\NewRobot\bin\Release\NewRobot.exe.config
+D:\work\Client\Robot\NewRobot\NewRobot\bin\Release\NewRobot.exe
+D:\work\Client\Robot\NewRobot\NewRobot\bin\Release\NewRobot.pdb
+D:\work\Client\Robot\NewRobot\NewRobot\obj\Release\NewRobot.RobotWindow.resources
+D:\work\Client\Robot\NewRobot\NewRobot\obj\Release\NewRobot.Properties.Resources.resources
+D:\work\Client\Robot\NewRobot\NewRobot\obj\Release\NewRobot.csproj.GenerateResource.Cache
+D:\work\Client\Robot\NewRobot\NewRobot\obj\Release\NewRobot.exe
+D:\work\Client\Robot\NewRobot\NewRobot\obj\Release\NewRobot.pdb
+D:\work\Client\Robot\NewRobot\NewRobot\bin\Release\NetLib.dll
+D:\work\Client\Robot\NewRobot\NewRobot\obj\Release\NewRobot.csprojResolveAssemblyReference.cache

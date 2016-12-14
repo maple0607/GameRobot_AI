@@ -1,0 +1,57 @@
+C:\Users\zhoushuo\Documents\Visual Studio 2012\Projects\NewRobot\NewRobot\bin\Debug\NewRobot.exe.config
+C:\Users\zhoushuo\Documents\Visual Studio 2012\Projects\NewRobot\NewRobot\bin\Debug\NewRobot.exe
+C:\Users\zhoushuo\Documents\Visual Studio 2012\Projects\NewRobot\NewRobot\bin\Debug\NewRobot.pdb
+C:\Users\zhoushuo\Documents\Visual Studio 2012\Projects\NewRobot\NewRobot\obj\Debug\NewRobot.RobotWindow.resources
+C:\Users\zhoushuo\Documents\Visual Studio 2012\Projects\NewRobot\NewRobot\obj\Debug\NewRobot.Properties.Resources.resources
+C:\Users\zhoushuo\Documents\Visual Studio 2012\Projects\NewRobot\NewRobot\obj\Debug\NewRobot.csproj.GenerateResource.Cache
+C:\Users\zhoushuo\Documents\Visual Studio 2012\Projects\NewRobot\NewRobot\obj\Debug\NewRobot.exe
+C:\Users\zhoushuo\Documents\Visual Studio 2012\Projects\NewRobot\NewRobot\obj\Debug\NewRobot.pdb
+C:\Users\asus\Desktop\NewRobot\NewRobot\NewRobot\bin\Debug\NewRobot.exe.config
+C:\Users\asus\Desktop\NewRobot\NewRobot\NewRobot\obj\Debug\NewRobot.exe
+C:\Users\asus\Desktop\NewRobot\NewRobot\NewRobot\obj\Debug\NewRobot.pdb
+C:\Users\asus\Desktop\NewRobot\NewRobot\NewRobot\bin\Debug\NewRobot.exe
+C:\Users\asus\Desktop\NewRobot\NewRobot\NewRobot\bin\Debug\NewRobot.pdb
+C:\Users\asus\Desktop\NewRobot\NewRobot\NewRobot\obj\Debug\NewRobot.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\NewRobot\NewRobot\NewRobot\obj\Debug\NewRobot.RobotWindow.resources
+C:\Users\asus\Desktop\NewRobot\NewRobot\NewRobot\obj\Debug\NewRobot.Properties.Resources.resources
+C:\Users\asus\Desktop\NewRobot\NewRobot\NewRobot\obj\Debug\NewRobot.csproj.GenerateResource.Cache
+D:\Project04\Client\Robot\NewRobot\NewRobot\bin\Debug\NewRobot.exe.config
+D:\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.RobotWindow.resources
+D:\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.Properties.Resources.resources
+D:\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.csproj.GenerateResource.Cache
+D:\Project04\Client\Robot\NewRobot\NewRobot\bin\Debug\NewRobot.exe
+D:\Project04\Client\Robot\NewRobot\NewRobot\bin\Debug\NewRobot.pdb
+D:\Project04\Client\Robot\NewRobot\NewRobot\bin\Debug\NetLib.dll
+D:\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.exe
+D:\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.pdb
+D:\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.csprojResolveAssemblyReference.cache
+F:\Codes\Project04\Client\Robot\NewRobot\NewRobot\bin\Debug\NewRobot.exe.config
+F:\Codes\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.exe
+F:\Codes\Project04\Client\Robot\NewRobot\NewRobot\bin\Debug\NewRobot.exe
+F:\Codes\Project04\Client\Robot\NewRobot\NewRobot\bin\Debug\NewRobot.pdb
+F:\Codes\Project04\Client\Robot\NewRobot\NewRobot\bin\Debug\NetLib.dll
+F:\Codes\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.csprojResolveAssemblyReference.cache
+F:\Codes\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.RobotWindow.resources
+F:\Codes\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.Properties.Resources.resources
+F:\Codes\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.csproj.GenerateResource.Cache
+F:\Codes\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.pdb
+E:\Client\Project04\Client\Robot\NewRobot\NewRobot\bin\Debug\NewRobot.exe.config
+E:\Client\Project04\Client\Robot\NewRobot\NewRobot\bin\Debug\NewRobot.exe
+E:\Client\Project04\Client\Robot\NewRobot\NewRobot\bin\Debug\NewRobot.pdb
+E:\Client\Project04\Client\Robot\NewRobot\NewRobot\bin\Debug\NetLib.dll
+E:\Client\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.csprojResolveAssemblyReference.cache
+E:\Client\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.RobotWindow.resources
+E:\Client\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.Properties.Resources.resources
+E:\Client\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.csproj.GenerateResource.Cache
+E:\Client\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.exe
+E:\Client\Project04\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.pdb
+E:\work\Client\Robot\NewRobot\NewRobot\bin\Debug\NewRobot.exe.config
+E:\work\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.csprojResolveAssemblyReference.cache
+E:\work\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.RobotWindow.resources
+E:\work\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.Properties.Resources.resources
+E:\work\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.csproj.GenerateResource.Cache
+E:\work\Client\Robot\NewRobot\NewRobot\bin\Debug\NewRobot.exe
+E:\work\Client\Robot\NewRobot\NewRobot\bin\Debug\NewRobot.pdb
+E:\work\Client\Robot\NewRobot\NewRobot\bin\Debug\NetLib.dll
+E:\work\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.exe
+E:\work\Client\Robot\NewRobot\NewRobot\obj\Debug\NewRobot.pdb
